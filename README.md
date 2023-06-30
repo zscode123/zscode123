@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zscode123
+- 👀 I’m interested in program
+- 🌱 I’m currently learning javacript,typescript,rust
